@@ -37,9 +37,6 @@ public class ArrayTest {
 
         array.removeElement(0);
         assert array.get(0) == 1;
-
-
-
     }
 
     @Test
